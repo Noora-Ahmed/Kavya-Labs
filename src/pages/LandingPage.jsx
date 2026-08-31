@@ -7,9 +7,9 @@ export default function LandingPage() {
       <header className="flex justify-between items-center p-6 bg-white shadow">
         <h1 className="text-2xl font-bold text-gray-800">Kavya Labs</h1>
         <nav className="space-x-6">
-          <a href="#" className="hover:text-blue-600">Home</a>
-          <a href="#" className="hover:text-blue-600">About</a>
-          <a href="#" className="hover:text-blue-600">Contact</a>
+          <a href="/" className="hover:text-blue-600">Home</a>
+          <a href="/" className="hover:text-blue-600">About</a>
+          <a href="/" className="hover:text-blue-600">Contact</a>
         </nav>
       </header>
 
